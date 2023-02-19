@@ -1,0 +1,34 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emailjs/browser": "^3.10.0",
+    "aos": "^3.0.0-beta.6",
+    "cra-template": "1.2.0",
+    "emailjs-com": "^3.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "remixicon": "^2.5.0",
+    "swiper": "^9.0.4"
+  },
+  "devDependencies": {
+    "typescript": "4.7.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
