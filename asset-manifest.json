@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1112ae29.css",
-    "main.js": "/portfolio/static/js/main.5ce61eea.js",
-    "static/media/remixicon.svg?t=1590207869815": "/portfolio/static/media/remixicon.9cedd2150922ead84869.svg",
-    "static/media/remixicon.eot?t=1590207869815": "/portfolio/static/media/remixicon.5cb99e6cba5a4619063f.eot",
-    "static/media/remixicon.ttf?t=1590207869815": "/portfolio/static/media/remixicon.f2616f597cf98f38d234.ttf",
-    "static/media/profile.JPG": "/portfolio/static/media/profile.0877dc753d484af73963.JPG",
-    "static/media/weatherapp.jpg": "/portfolio/static/media/weatherapp.f02f7b79b4eaa99308e8.jpg",
-    "static/media/dco.jpg": "/portfolio/static/media/dco.4e5df80bacd6aaa52992.jpg",
-    "static/media/keac.jpg": "/portfolio/static/media/keac.180a4956218c4e7f9e1d.jpg",
-    "static/media/payrollmanagementsystem.jpg": "/portfolio/static/media/payrollmanagementsystem.7572dda6e7028fc6d557.jpg",
-    "static/media/fanoos-tms.jpg": "/portfolio/static/media/fanoos-tms.a4191a795457d29c179e.jpg",
-    "static/media/remixicon.woff?t=1590207869815": "/portfolio/static/media/remixicon.8d09fa11700ed63cf96e.woff",
-    "static/media/ecommerceapp.jpg": "/portfolio/static/media/ecommerceapp.3b8d6f3918f7309ae5fe.jpg",
-    "static/media/remixicon.woff2?t=1590207869815": "/portfolio/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
-    "static/media/sportskg.jpg": "/portfolio/static/media/sportskg.95ec1946f9bff0d099be.jpg",
-    "static/media/samimqeyamcv.pdf": "/portfolio/static/media/samimqeyamcv.4d0e9c0e1288fc9374d9.pdf",
-    "static/media/typinggame.jpg": "/portfolio/static/media/typinggame.9708e780fe73f1aacc96.jpg",
-    "index.html": "/portfolio/index.html",
-    "main.1112ae29.css.map": "/portfolio/static/css/main.1112ae29.css.map",
-    "main.5ce61eea.js.map": "/portfolio/static/js/main.5ce61eea.js.map"
+    "main.css": "/Portfolio/static/css/main.df38501b.css",
+    "main.js": "/Portfolio/static/js/main.1e3caec4.js",
+    "static/media/remixicon.svg?t=1590207869815": "/Portfolio/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/Portfolio/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/Portfolio/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/profile.JPG": "/Portfolio/static/media/profile.0877dc753d484af73963.JPG",
+    "static/media/weatherapp.jpg": "/Portfolio/static/media/weatherapp.f02f7b79b4eaa99308e8.jpg",
+    "static/media/dco.jpg": "/Portfolio/static/media/dco.4e5df80bacd6aaa52992.jpg",
+    "static/media/keac.jpg": "/Portfolio/static/media/keac.180a4956218c4e7f9e1d.jpg",
+    "static/media/payrollmanagementsystem.jpg": "/Portfolio/static/media/payrollmanagementsystem.7572dda6e7028fc6d557.jpg",
+    "static/media/fanoos-tms.jpg": "/Portfolio/static/media/fanoos-tms.a4191a795457d29c179e.jpg",
+    "static/media/remixicon.woff?t=1590207869815": "/Portfolio/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/ecommerceapp.jpg": "/Portfolio/static/media/ecommerceapp.3b8d6f3918f7309ae5fe.jpg",
+    "static/media/remixicon.woff2?t=1590207869815": "/Portfolio/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/sportskg.jpg": "/Portfolio/static/media/sportskg.95ec1946f9bff0d099be.jpg",
+    "static/media/samimqeyamcv.pdf": "/Portfolio/static/media/samimqeyamcv.4d0e9c0e1288fc9374d9.pdf",
+    "static/media/typinggame.jpg": "/Portfolio/static/media/typinggame.9708e780fe73f1aacc96.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.df38501b.css.map": "/Portfolio/static/css/main.df38501b.css.map",
+    "main.1e3caec4.js.map": "/Portfolio/static/js/main.1e3caec4.js.map"
   },
   "entrypoints": [
-    "static/css/main.1112ae29.css",
-    "static/js/main.5ce61eea.js"
+    "static/css/main.df38501b.css",
+    "static/js/main.1e3caec4.js"
   ]
 }
