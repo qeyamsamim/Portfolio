@@ -12,7 +12,7 @@ export const Data = [
         id: 1,
         image: EcommerceImage,
         name: 'Ecommerce Website',
-        url: 'https://fanoos-ecourse-system.web.app/',
+        url: 'https://qeyamsamim.github.io/Ecommerce-Web-Application',
         year: 'In Progress',
         stack: [ 'JavaScript', 'React', 'Redux', 'HTML', 'CSS', 'Bootstrap']
     },
@@ -52,7 +52,7 @@ export const Data = [
         id: 5,
         image: WeatherAppImage,
         name: 'Weather App',
-        url: 'https://fanoos-ecourse-system.web.app/',
+        url: 'https://qeyamsamim.github.io/Weather-App/',
         year: '2021',
         stack: [ 'JavaScript', 'React', 'HTML', 'CSS', 'Bootstrap']
     },
@@ -60,7 +60,7 @@ export const Data = [
         id: 6,
         image: TypingGameImage,
         name: 'Typing Game',
-        url: 'https://fanoos-ecourse-system.web.app/',
+        url: 'https://qeyamsamim.github.io/Typing-Game-React/',
         year: '2020',
         stack: [ 'JavaScript', 'React', 'HTML', 'CSS', 'Bootstrap']
     },

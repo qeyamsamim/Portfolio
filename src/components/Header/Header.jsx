@@ -5,7 +5,7 @@ import './Header.css'
 const Header = () => {
 
     const [toggle, setToggle] = useState(false)
-    const [activeNav, setActiveNav] = useState('#home')
+    const [activeNav, setActiveNav] = useState('')
     const items = [
         {
             href: '#home',
@@ -50,7 +50,7 @@ const Header = () => {
                             return <li className="nav-item" key={index}>
                                 <a 
                                     href={href} 
-                                    onClick={() => setActiveNav({href})}
+                                    onClick={() => setActiveNav(href)}
                                     className={ activeNav === href ? 
                                         'nav-link active-link' :
                                         'nav-link'

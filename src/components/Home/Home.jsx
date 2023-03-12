@@ -6,6 +6,8 @@ import Data from './Data'
 import ScrollDown from './ScrollDown'
 
 const Home = () => {
+  const isLarge = window.innerWidth > 576
+
   return (
     <section className="home section" id="home">
         <div className="home-container container grid">
@@ -13,7 +15,7 @@ const Home = () => {
                 <Social />
                 <div 
                   className="home-img"
-                  data-aos='fade-left'
+                  data-aos={ isLarge ? 'fade-left' : 'zoom-in'}
                   data-aos-duration='1500'>
 
                 </div>

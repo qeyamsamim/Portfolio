@@ -42,24 +42,20 @@
     display: none;
 }
 
-/***** Active Link *****/
+@media screen and (min-width: 769px) {
+    .nav-link::after {
+        content: '';
+        height: 2px;
+        width: 0%;
+        background-color: var(--title-color);
+        display: block;
+        transition: .4s ease-in-out;
+    }
 
-.active-link {
-    color: var(--title-color-dark);
+    .nav-link:hover::after {
+        width: 100%;
+    }
 }
-
-/* .nav-link::after {
-    content: '';
-    height: 2px;
-    width: 0%;
-    background-color: var(--title-color);
-    display: block;
-    transition: .5s ease-in-out;
-}
-
-.nav-link:hover::after {
-    width: 100%;
-} */
 
 @media screen and (max-width: 768px) {
     .header {

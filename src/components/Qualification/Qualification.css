@@ -95,6 +95,15 @@
 }
 
 @media screen and (max-width: 576px) {
+    .qualification {
+        margin-top: var(--mb-1-5);
+    }
+
+    .qualification-container {
+        margin-left: var(--mb-0-5);
+        margin-right: var(--mb-0-5);
+    }
+    
     .qualification-sections {
         grid-template-columns: initial;
     }

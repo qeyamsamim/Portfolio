@@ -9,15 +9,17 @@ import { Data } from './Data'
 
 
 const Portfolio = () => {
+    const isLarge = window.innerWidth >= 768
+
   return (
     <section className="portfolio container section" id='portfolio'>
         <h2 
             className="section-title"
-            data-aos='fade-right'
+            data-aos={isLarge ? 'fade-right' : 'zoom-in'}
             data-aos-duration='2000'>Portfolio</h2>
         <span 
             className="section-subtitle"
-            data-aos='fade-left'
+            data-aos={isLarge ? 'fade-left' : 'zoom-in'}
             data-aos-duration='2000'>My Recent Works</span>
         <Swiper 
             className="portfolio-container"

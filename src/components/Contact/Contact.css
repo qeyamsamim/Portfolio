@@ -130,11 +130,19 @@
 }
 
 @media screen and (max-width: 576px) {
+    .form {
+        margin-top: var(--mb-1-5);
+    }
+
     .contact-info {
         grid-template-columns: 1fr;
     }
 
     .contact-form {
         width: 100%;
+    }
+
+    .contact {
+        padding: 0rem 1.3rem 2.5rem 1.3rem;
     }
 }

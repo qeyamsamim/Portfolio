@@ -10,6 +10,7 @@
     --text-color: hsl(var(--hue), var(--sat), 46%);
     --body-color: hsl(var(--hue), var(--sat), 98%);
     --container-color: #fff;
+    --active-menu: rgb(145, 145, 145);
 
     --body-font: 'Poppins', sans-serif;
 
@@ -185,12 +186,12 @@ img {
 
 @media screen and (max-width: 576px) {
     .container {
-        margin-left: var(--mb-0-75);
-        margin-right: var(--mb-0-75);
+        margin-left: var(--mb-1);
+        margin-right: var(--mb-1);
     }
     
     .section {
-        padding: 1.3rem 1.3rem;
+        padding: 1.3rem 1.3rem 2.5rem 1.3rem;
     }
 }
 

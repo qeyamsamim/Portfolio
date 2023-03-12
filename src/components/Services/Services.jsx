@@ -3,6 +3,7 @@ import React, { useState } from 'react'
 import './Services.css'
 
 const Services = () => {
+    const isLarge = window.innerWidth >= 768
     const [toggleState, setToggleState] = useState(0)
 
     const toggleTab = (index) => {
@@ -60,7 +61,7 @@ const Services = () => {
                             <i className={icon}></i>
                             <h3 
                                 className="services-title"
-                                data-aos='zoom-in-left'
+                                data-aos={isLarge ? 'zoom-in-left' : 'zoom-in'}
                                 data-aos-duration='1500'>{title1} <br /> {title2}</h3>
                         </div>
                         <span

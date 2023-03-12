@@ -6,6 +6,7 @@ import Info from './Info'
 import CV from '../../assets/samimqeyamcv.pdf'
 
 const About = () => {
+
   return (
     <section className="about section" id="about">
         <h2

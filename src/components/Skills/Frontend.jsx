@@ -2,6 +2,8 @@ import React from 'react'
 
 const Frontend = () => {
 
+    const isLarge = window.innerWidth >= 768
+
     const skillsSet1 = [
         {
             name: 'JavaScript',
@@ -43,7 +45,7 @@ const Frontend = () => {
   return (
     <div 
         className="skills-content"
-        data-aos='fade-up-right'
+        data-aos={ isLarge ? 'fade-up-right' : 'fade-up'}
         data-aos-duration='2000'>
         <h3 className="skills-title">Front-End Development</h3>
         <div className="skills-box">

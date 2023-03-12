@@ -77,3 +77,13 @@
         width: initial;
     }
 }
+
+@media screen and (max-width: 576px) {
+    .portfolio-container {
+        width: initial;
+    }
+
+    .portfolio {
+        margin-top: var(--mb-2);
+    }
+}

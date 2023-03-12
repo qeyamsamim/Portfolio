@@ -1,6 +1,8 @@
 import React from 'react'
 
 const Backend = () => {
+    
+    const isLarge = window.innerWidth >= 768
 
     const skillsSet1 = [
         {
@@ -35,7 +37,7 @@ const Backend = () => {
   return (
     <div 
         className="skills-content"
-        data-aos='fade-up-left'
+        data-aos={ isLarge ? 'fade-up-left' : 'fade-up'}
         data-aos-duration='2000'>
         <h3 className="skills-title">Backend Development</h3>
         <div className="skills-box">

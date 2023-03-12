@@ -86,7 +86,7 @@ const Contact = () => {
                     }
                 </div>
             </div>
-            <div className="contact-content">
+            <div className="contact-content form">
                 <h3 className="contact-title">Write me your projects</h3>
                 <form ref={form} onSubmit={sendEmail} className="contact-form">
                     <div className="contact-form-div">
@@ -123,11 +123,8 @@ const Contact = () => {
                             placeholder='Write Your Project'
                             required></textarea>
                     </div>
-                    <button 
-                        href="" 
-                        className="button button-flex"
-                        data-aos='fade-left'
-                        data-aos-duration='2000'>Send Message<i className="ri-send-plane-line button-icon"></i></button>
+                    <button
+                        className="button button-flex">Send Message<i className="ri-send-plane-line button-icon"></i></button>
                 </form>
             </div>
         </div>

@@ -1,34 +1,54 @@
 import React from 'react'
 
 const Info = () => {
+
+  const isLarge = window.innerWidth >= 768
+
+  const items = [
+    {
+      delayLarge: 0,
+      delayNotLearge: 0,
+      duLarge: 1500,
+      icon: 'ri-award-line about-icon',
+      title: 'Experience',
+      subtitle: '+2.5 Years Working'
+    },
+    {
+      delayLarge: 500,
+      delayNotLearge: 0,
+      duLarge: 1700,
+      icon: 'ri-briefcase-3-line about-icon',
+      title: 'Completed',
+      subtitle: '+15 Projects'
+    },
+    {
+      delayLarge: 1000,
+      delayNotLearge: 0,
+      duLarge: 1900,
+      icon: 'ri-headphone-fill about-icon',
+      title: 'Support',
+      subtitle: 'Online 24/7'
+    }
+  ]
+
   return (
     <div className="about-info grid">
-        <div
-          className="about-box"
-          data-aos='fade-left'
-          data-aos-duration='1500'>
-            <i className="ri-award-line about-icon"></i>
-            <h3 className="about-title">Experience</h3>
-            <span className="about-subtitle">+2.5 Years Working</span>
-        </div>
-        <div
-          className="about-box"
-          data-aos='fade-left'
-          data-aos-delay='500'
-          data-aos-duration='1700'>
-            <i className="ri-briefcase-3-line about-icon"></i>
-            <h3 className="about-title">Completed</h3>
-            <span className="about-subtitle">+10 Projects</span>
-        </div>
-        <div 
-          className="about-box"
-          data-aos='fade-left'
-          data-aos-delay='1000'
-          data-aos-duration='1900'>
-            <i className="ri-headphone-fill about-icon"></i>
-            <h3 className="about-title">Support</h3>
-            <span className="about-subtitle">Online 24/7</span>
-        </div>
+      {
+        items.map((item, index) => {
+          return (
+            <div
+              key={index}
+              className="about-box"
+              data-aos={ isLarge ? 'fade-left' : 'zoom-in' }
+              data-aos-delay={ isLarge ? item.delayLarge : item.delayNotLearge }
+              data-aos-duration={ isLarge ? item.duLarge : '2000' }>
+                <i className={item.icon}></i>
+                <h3 className="about-title">{item.title}</h3>
+                <span className="about-subtitle">{item.subtitle}</span>
+            </div>    
+          )
+        })
+      }
     </div>
   )
 }
