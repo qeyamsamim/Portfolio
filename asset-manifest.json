@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.72ca8f75.css",
-    "main.js": "/Portfolio/static/js/main.88d95f91.js",
+    "main.css": "/Portfolio/static/css/main.54f94bef.css",
+    "main.js": "/Portfolio/static/js/main.14840d34.js",
     "static/media/remixicon.svg?t=1590207869815": "/Portfolio/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/profile.png": "/Portfolio/static/media/profile.c8fbb8d993ac8b7dabcd.png",
     "static/media/remixicon.eot?t=1590207869815": "/Portfolio/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/Portfolio/static/media/remixicon.f2616f597cf98f38d234.ttf",
-    "static/media/profile.JPG": "/Portfolio/static/media/profile.0877dc753d484af73963.JPG",
+    "static/media/real-estate.jpg": "/Portfolio/static/media/real-estate.7e9a03cd3cd970027762.jpg",
     "static/media/weatherapp.jpg": "/Portfolio/static/media/weatherapp.f02f7b79b4eaa99308e8.jpg",
     "static/media/dco.jpg": "/Portfolio/static/media/dco.4e5df80bacd6aaa52992.jpg",
     "static/media/keac.jpg": "/Portfolio/static/media/keac.180a4956218c4e7f9e1d.jpg",
@@ -13,16 +14,18 @@
     "static/media/fanoos-tms.jpg": "/Portfolio/static/media/fanoos-tms.a4191a795457d29c179e.jpg",
     "static/media/remixicon.woff?t=1590207869815": "/Portfolio/static/media/remixicon.8d09fa11700ed63cf96e.woff",
     "static/media/ecommerceapp.jpg": "/Portfolio/static/media/ecommerceapp.3b8d6f3918f7309ae5fe.jpg",
+    "static/media/fitnessapp.jpg": "/Portfolio/static/media/fitnessapp.848486fe5b49467217bc.jpg",
     "static/media/remixicon.woff2?t=1590207869815": "/Portfolio/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
     "static/media/sportskg.jpg": "/Portfolio/static/media/sportskg.95ec1946f9bff0d099be.jpg",
+    "static/media/about.jpg": "/Portfolio/static/media/about.365a3689bae7af108b68.jpg",
     "static/media/samimqeyamcv.pdf": "/Portfolio/static/media/samimqeyamcv.4d0e9c0e1288fc9374d9.pdf",
     "static/media/typinggame.jpg": "/Portfolio/static/media/typinggame.9708e780fe73f1aacc96.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.72ca8f75.css.map": "/Portfolio/static/css/main.72ca8f75.css.map",
-    "main.88d95f91.js.map": "/Portfolio/static/js/main.88d95f91.js.map"
+    "main.54f94bef.css.map": "/Portfolio/static/css/main.54f94bef.css.map",
+    "main.14840d34.js.map": "/Portfolio/static/js/main.14840d34.js.map"
   },
   "entrypoints": [
-    "static/css/main.72ca8f75.css",
-    "static/js/main.88d95f91.js"
+    "static/css/main.54f94bef.css",
+    "static/js/main.14840d34.js"
   ]
 }
