@@ -42,7 +42,7 @@ const Header = () => {
   return (
     <header className="header">
         <nav className="nav container">
-            <a href="" className="nav-logo">Ahmad Samim Qeyam</a>
+            <a href="#home" className="nav-logo">Ahmad Samim Qeyam</a>
             <div className={toggle ? 'nav-menu show-menu' : 'nav-menu'}>
                 <ul className="nav-list">
                     {

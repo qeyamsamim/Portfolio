@@ -1,7 +1,7 @@
 import React from 'react'
 
 import './About.css'
-import AboutImg from '../../assets/profile.JPG'
+import AboutImg from '../../assets/about.jpg'
 import Info from './Info'
 import CV from '../../assets/samimqeyamcv.pdf'
 
@@ -21,8 +21,8 @@ const About = () => {
                 <Info />
 
                 <p className="about-description">
-                    Hi, my name is Ahmad Samim Qeyam. I am a front-end web developer based in Bishkek,
-                    Kyrgyzstan. I started my journey as a web developer since 2018 when I served as a 
+                    Hi, my name is Ahmad Samim Qeyam. I am a frontend web developer based in California,
+                    United States. I started my journey as a web developer in 2018 when I served as a 
                     web developer intern for a startup in India. Since then, I have collaborated with many 
                     local and international businesses and NGOs to create digital products in Afghanistan,
                     India, Kyrgyzstan, and Uzbekistan. I am quietly confident and naturally curious to learn

@@ -12,13 +12,13 @@ const Data = () => {
         <h3 
           className="home-subtitle"
           data-aos={ isLarge ? 'fade-down' : 'flip-left' }
-          data-aos-duration='2000'>Front-End Web Developer</h3>
+          data-aos-duration='2000'>Frontend Web Developer</h3>
         <p className="home-description">
-          During my two and half years of professional work experience, I have built several
+          During my three years of professional work experience, I have built several
           high-impact web solutions for diverse industry organizations. I am skilled in
           designing, developing, and testing web-based applications incorporating a range
           of technologies. Currently, I am aspiring to combine my background with my
-          strong technical skills to excel as a Front-End Web Developer.
+          strong technical skills to excel as a Frontend Developer.
         </p>
         <a 
           href='#contact'

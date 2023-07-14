@@ -13,7 +13,7 @@ const Services = () => {
     const items = [
         {
             icon: 'ri-layout-grid-line services-icon',
-            title1: 'Front-End',
+            title1: 'Frontend',
             title2: 'Developer',
             desc: 'I turn a design into a functional and visually appealing website using React and other related technologies.',
             tasks: [

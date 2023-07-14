@@ -11,7 +11,7 @@ const Info = () => {
       duLarge: 1500,
       icon: 'ri-award-line about-icon',
       title: 'Experience',
-      subtitle: '+2.5 Years Working'
+      subtitle: '3 Years Working'
     },
     {
       delayLarge: 500,
@@ -19,7 +19,7 @@ const Info = () => {
       duLarge: 1700,
       icon: 'ri-briefcase-3-line about-icon',
       title: 'Completed',
-      subtitle: '+15 Projects'
+      subtitle: '+20 Projects'
     },
     {
       delayLarge: 1000,

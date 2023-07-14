@@ -19,8 +19,8 @@ const Contact = () => {
         {
             icon: 'ri-whatsapp-line contact-card-icon',
             name: 'WhatsApp',
-            contact: '996999899400',
-            url: 'https://web.whatsapp.com/send?phone=996999899400'
+            contact: '+19254898605',
+            url: 'https://web.whatsapp.com/send?phone=19254898605'
         },
         {
             icon: 'ri-telegram-line contact-card-icon',

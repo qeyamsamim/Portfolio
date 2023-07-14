@@ -53,7 +53,7 @@
 }
 
 .home-img {
-    background: url(../../assets/profile.JPG) no-repeat center;
+    background: url(../../assets/profile.png) no-repeat center;
     background-size: cover;
     order: 1;
     justify-self: center;

@@ -51,7 +51,7 @@ const Qualification = () => {
                     }>
                         <div className="qualification-data">
                             <div>
-                                <h3 className="qualification-title">MA in Business Administration</h3>
+                                <h3 className="qualification-title">Master of Business Administration</h3>
                                 <div className="education-info">
                                     <i className="ri-community-line education-icon"></i>
                                     <p className="services-modal-info">American University of Central Asia</p>
@@ -62,7 +62,7 @@ const Qualification = () => {
                                 </div>
                                 <div className="education-info">
                                     <i className="ri-calendar-todo-fill education-icon"></i>
-                                    <p className="services-modal-info">SEP 2021 - PRESENT</p>
+                                    <p className="services-modal-info">SEP 2021 - MAY 2023</p>
                                 </div>
                             </div>
                             <div>
@@ -100,7 +100,7 @@ const Qualification = () => {
                     }>
                         <div className="qualification-data">
                             <div>
-                                <h3 className="qualification-title">Front-End Web Developer</h3>
+                                <h3 className="qualification-title">Frontend Web Developer</h3>
                                 <div className="education-info">
                                     <i className="ri-community-line education-icon"></i>
                                     <p className="services-modal-info">Technical School of Innovation AUCA</p>
@@ -111,7 +111,7 @@ const Qualification = () => {
                                 </div>
                                 <div className="education-info">
                                     <i className="ri-calendar-todo-fill education-icon"></i>
-                                    <p className="services-modal-info">OCT 2021 - PRESENT</p>
+                                    <p className="services-modal-info">OCT 2021 - JUN 2023</p>
                                 </div>
                             </div>
                             <div>
@@ -126,7 +126,7 @@ const Qualification = () => {
                                 <span className="qualification-line"></span>
                             </div>
                             <div>
-                                <h3 className="qualification-title">Front-End Web Developer</h3>
+                                <h3 className="qualification-title">Frontend Web Developer</h3>
                                 <div className="education-info">
                                     <i className="ri-community-line education-icon"></i>
                                     <p className="services-modal-info">Fanoos Accounting Services</p>

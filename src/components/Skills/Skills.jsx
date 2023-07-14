@@ -11,7 +11,7 @@ const Skills = () => {
           className="section-title"
           data-aos='zoom-in'
           data-aos-duration='2000'>Skills</h2>
-        <span className="section-subtitle">My Technical Level</span>
+        <span className="section-subtitle">My Technical Skills</span>
         <div className="skills-container container grid">
             <Frontend />
             <Backend />

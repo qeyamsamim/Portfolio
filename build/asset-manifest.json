@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.beaec74d.css",
-    "main.js": "/Portfolio/static/js/main.ea47e6e0.js",
+    "main.css": "/Portfolio/static/css/main.72ca8f75.css",
+    "main.js": "/Portfolio/static/js/main.88d95f91.js",
     "static/media/remixicon.svg?t=1590207869815": "/Portfolio/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/remixicon.eot?t=1590207869815": "/Portfolio/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/Portfolio/static/media/remixicon.f2616f597cf98f38d234.ttf",
@@ -18,11 +18,11 @@
     "static/media/samimqeyamcv.pdf": "/Portfolio/static/media/samimqeyamcv.4d0e9c0e1288fc9374d9.pdf",
     "static/media/typinggame.jpg": "/Portfolio/static/media/typinggame.9708e780fe73f1aacc96.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.beaec74d.css.map": "/Portfolio/static/css/main.beaec74d.css.map",
-    "main.ea47e6e0.js.map": "/Portfolio/static/js/main.ea47e6e0.js.map"
+    "main.72ca8f75.css.map": "/Portfolio/static/css/main.72ca8f75.css.map",
+    "main.88d95f91.js.map": "/Portfolio/static/js/main.88d95f91.js.map"
   },
   "entrypoints": [
-    "static/css/main.beaec74d.css",
-    "static/js/main.ea47e6e0.js"
+    "static/css/main.72ca8f75.css",
+    "static/js/main.88d95f91.js"
   ]
 }
