@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.54f94bef.css",
-    "main.js": "/Portfolio/static/js/main.14840d34.js",
+    "main.js": "/Portfolio/static/js/main.48324233.js",
     "static/media/remixicon.svg?t=1590207869815": "/Portfolio/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/profile.png": "/Portfolio/static/media/profile.c8fbb8d993ac8b7dabcd.png",
     "static/media/remixicon.eot?t=1590207869815": "/Portfolio/static/media/remixicon.5cb99e6cba5a4619063f.eot",
@@ -18,14 +18,14 @@
     "static/media/remixicon.woff2?t=1590207869815": "/Portfolio/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
     "static/media/sportskg.jpg": "/Portfolio/static/media/sportskg.95ec1946f9bff0d099be.jpg",
     "static/media/about.jpg": "/Portfolio/static/media/about.365a3689bae7af108b68.jpg",
-    "static/media/samimqeyamcv.pdf": "/Portfolio/static/media/samimqeyamcv.4d0e9c0e1288fc9374d9.pdf",
+    "static/media/samimqeyamcv.pdf": "/Portfolio/static/media/samimqeyamcv.0ccd3fefd08eacdea552.pdf",
     "static/media/typinggame.jpg": "/Portfolio/static/media/typinggame.9708e780fe73f1aacc96.jpg",
     "index.html": "/Portfolio/index.html",
     "main.54f94bef.css.map": "/Portfolio/static/css/main.54f94bef.css.map",
-    "main.14840d34.js.map": "/Portfolio/static/js/main.14840d34.js.map"
+    "main.48324233.js.map": "/Portfolio/static/js/main.48324233.js.map"
   },
   "entrypoints": [
     "static/css/main.54f94bef.css",
-    "static/js/main.14840d34.js"
+    "static/js/main.48324233.js"
   ]
 }
