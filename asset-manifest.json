@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.fddedac7.css",
-    "main.js": "/Portfolio/static/js/main.e8b07bc5.js",
+    "main.css": "/Portfolio/static/css/main.b0259ffc.css",
+    "main.js": "/Portfolio/static/js/main.7a7dc934.js",
     "static/media/remixicon.svg?t=1590207869815": "/Portfolio/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/profile.png": "/Portfolio/static/media/profile.c8fbb8d993ac8b7dabcd.png",
     "static/media/remixicon.eot?t=1590207869815": "/Portfolio/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/Portfolio/static/media/remixicon.f2616f597cf98f38d234.ttf",
     "static/media/real-estate.jpg": "/Portfolio/static/media/real-estate.7e9a03cd3cd970027762.jpg",
     "static/media/weatherapp.jpg": "/Portfolio/static/media/weatherapp.f02f7b79b4eaa99308e8.jpg",
+    "static/media/face-recognition.jpg": "/Portfolio/static/media/face-recognition.ca436f1d8264c694fc4d.jpg",
     "static/media/dco.jpg": "/Portfolio/static/media/dco.4e5df80bacd6aaa52992.jpg",
     "static/media/keac.jpg": "/Portfolio/static/media/keac.180a4956218c4e7f9e1d.jpg",
     "static/media/payrollmanagementsystem.jpg": "/Portfolio/static/media/payrollmanagementsystem.7572dda6e7028fc6d557.jpg",
@@ -16,16 +17,15 @@
     "static/media/ecommerceapp.jpg": "/Portfolio/static/media/ecommerceapp.3b8d6f3918f7309ae5fe.jpg",
     "static/media/fitnessapp.jpg": "/Portfolio/static/media/fitnessapp.848486fe5b49467217bc.jpg",
     "static/media/remixicon.woff2?t=1590207869815": "/Portfolio/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
-    "static/media/sportskg.jpg": "/Portfolio/static/media/sportskg.95ec1946f9bff0d099be.jpg",
     "static/media/about.jpg": "/Portfolio/static/media/about.365a3689bae7af108b68.jpg",
     "static/media/samimqeyamcv.pdf": "/Portfolio/static/media/samimqeyamcv.4a36aaea8b8ee56a283b.pdf",
     "static/media/typinggame.jpg": "/Portfolio/static/media/typinggame.9708e780fe73f1aacc96.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.fddedac7.css.map": "/Portfolio/static/css/main.fddedac7.css.map",
-    "main.e8b07bc5.js.map": "/Portfolio/static/js/main.e8b07bc5.js.map"
+    "main.b0259ffc.css.map": "/Portfolio/static/css/main.b0259ffc.css.map",
+    "main.7a7dc934.js.map": "/Portfolio/static/js/main.7a7dc934.js.map"
   },
   "entrypoints": [
-    "static/css/main.fddedac7.css",
-    "static/js/main.e8b07bc5.js"
+    "static/css/main.b0259ffc.css",
+    "static/js/main.7a7dc934.js"
   ]
 }
